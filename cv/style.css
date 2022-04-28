@@ -110,6 +110,7 @@ ul{
     color: #FFFF;
     background-color: #414042;
     text-transform: uppercase;
+    justify-content: center;
 }
 .aside__skils li{
     display: flex;
